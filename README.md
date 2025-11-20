@@ -9,7 +9,7 @@
 **Semester:** III  
 **Course Code:** —  
 **Course Name:** Java Programming  
-**Faculty:** Lucky Kumar  
+**Faculty:** Lucky Verma 
 
 
   
